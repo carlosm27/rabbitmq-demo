@@ -1,5 +1,5 @@
 module github.com/carlosm27/go-rabbitmq-demo
 
-go 1.21.0
+go 1.21
 
-require github.com/rabbitmq/amqp091-go v1.9.0 // indirect
+require github.com/rabbitmq/amqp091-go v1.9.0
